@@ -65,3 +65,7 @@ Los *tokens* de registro se pueden encontrar en la [documentación de Morgan](ht
 ### Ejercicio
 
 Crear un módulo de logger para registrar las peticiones que se realicen en la aplicación.
+
+### BONUS
+
+Configurar el nivel de logging mediante una URL: /admin/:level.
